@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [ -I/usr/X11R6/include, -Wall, -Wextra, -std=c89, -DUSE_SNDIO ]
